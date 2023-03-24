@@ -5,7 +5,7 @@
 .contenido-contacto{
     @include m.tablet {
         @include m.grid(2, v.$separacion);
-        background-image: url(../img/granos_cafe.jpg);
+        background-image: url(../img/envases.jpg);
         background-repeat: no-repeat;
         background-position: right center; 
         background-size: 40%;

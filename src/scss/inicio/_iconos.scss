@@ -6,7 +6,7 @@
     .listado-iconos{
 
         @include m.tablet {
-            @include m.grid(3, 2rem);
+            @include m.grid(4, 2rem);
         } 
 
         li{
